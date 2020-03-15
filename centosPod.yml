@@ -1,14 +1,14 @@
 apiVersion: "v1"
 kind: Pod
 metadata:
-  name: ubuntu-pod
+  name: centos-pod
   labels:
     app: ubuntu-pod
     version: v5
     role: backend
 spec:
   containers:
-  - name: ubuntu-container
-    image: ubuntu
+  - name: centos-container
+    image: centos
     command: ["/bin/bash"]
     args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"Hi\"; sleep 5; done" ]

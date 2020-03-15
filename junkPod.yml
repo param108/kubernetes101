@@ -1,0 +1,14 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: junk-pod
+  labels:
+    app: junk-pod
+    version: v5
+    role: backend
+spec:
+  containers:
+  - name: centos-container
+    image: centos
+    command: ["/bin/bash"]
+    args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"Junk\"; sleep 5; done" ]
