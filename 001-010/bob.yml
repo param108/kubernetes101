@@ -1,0 +1,14 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: bob
+  labels:
+    app: bob
+    version: v5
+    role: backend
+spec:
+  containers:
+  - name: ubuntu-container
+    image: ubuntu
+    command: ["/bin/bash"]
+    args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"Bob is the best\"; sleep 5; done" ]

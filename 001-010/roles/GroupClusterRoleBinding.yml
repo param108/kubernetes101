@@ -1,0 +1,12 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: anns-role
+subjects:
+- kind: Group
+  name: alice # Name is case sensitive
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: ClusterRole #this must be Role or ClusterRole
+  name: reader # this must match the name of the Role
+  apiGroup: rbac.authorization.k8s.io

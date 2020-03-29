@@ -1,0 +1,14 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: superduperinfra
+  labels:
+    app: superduperinfra
+    version: v5
+    role: backend
+spec:
+  containers:
+  - name: ubuntu-container
+    image: ubuntu
+    command: ["/bin/bash"]
+    args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"All your pods are belong to us\"; sleep 5; done" ]
