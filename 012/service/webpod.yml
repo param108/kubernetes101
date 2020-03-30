@@ -1,0 +1,37 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: web2
+  labels:
+    app: web
+    version: v1
+    role: backend
+spec:
+  containers:
+  - name: web
+    image: web:latest
+    imagePullPolicy: Never
+    command: ["/web"]
+    args: []
+    ports:
+      - containerPort: 8080
+        protocol: TCP
+        hostPort: 8080
+    env:
+      - name: db_name
+        value: web
+      - name: db_user
+        value: web
+      - name: db_pass
+        value: web
+      - name: db_host
+        value: 127.0.0.1
+  - name: db
+    image: postgres:9.6
+    env:
+      - name: POSTGRES_DB
+        value: web
+      - name: POSTGRES_USER
+        value: web
+      - name: POSTGRES_PASSWORD
+        value: web
