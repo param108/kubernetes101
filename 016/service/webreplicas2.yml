@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: backend
+  labels:
+    app: web
+    type: replicaset
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: web
+      type: app
+  template:
+    metadata:
+      name: web
+      labels:
+        app: web
+        type: app
+    spec:
+      containers:
+      - name: web
+        image: localhost:5000/web:latest
+        imagePullPolicy: IfNotPresent
+        command: ["/web"]
+        args: []
+        ports:
+          - containerPort: 8080
+        env:
+          - name: db_name
+            value: web
+          - name: db_user
+            value: web
+          - name: db_pass
+            value: web
+          - name: db_host
+            value: database.components
