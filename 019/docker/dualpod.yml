@@ -1,0 +1,27 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: webgroup
+  labels:
+    app: web
+    version: v1
+    role: backend
+spec:
+  containers:
+  - name: web1
+    image: plainubuntu:latest
+    imagePullPolicy: Never
+    volumeMounts:
+      - mountPath: /v1
+        name: test-volume
+  - name: web2
+    image: plainubuntu:latest
+    imagePullPolicy: Never
+    volumeMounts:
+      - mountPath: /v1
+        name: test-volume
+  volumes:
+    - name: test-volume
+      hostPath: 
+        path: /data
+ 
