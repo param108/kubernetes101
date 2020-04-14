@@ -9,6 +9,6 @@ metadata:
 spec:
   containers:
   - name: ubuntu-container
-    image: ubuntu
+    image: ubuntu:latest
     command: ["/bin/bash"]
     args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"Hi\"; sleep 5; done" ]
