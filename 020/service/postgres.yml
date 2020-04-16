@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: database
+  labels:
+    app: web
+    type: db
+spec:
+  hostname: database
+  subdomain: components
+  containers:
+  - name: db
+    image: postgres:9.6
+    ports:
+      - containerPort: 5432
+    env:
+      - name: POSTGRES_DB
+        value: web
+      - name: POSTGRES_USER
+        value: web
+      - name: POSTGRES_PASSWORD
+        value: web

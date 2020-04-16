@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-deployment
+  name: backend
+  labels:
+    app: web
+    type: deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: web
+      type: app
+  template:
+    metadata:
+      name: web
+      labels:
+        app: web
+        type: app
+    spec:
+      containers:
+      - name: web
+        image: web:v1
+        imagePullPolicy: Never
+        command: ["/web"]
+        args: []
+        ports:
+          - containerPort: 8080
+        env:
+          - name: db_name
+            value: web
+          - name: db_user
+            value: web
+          - name: db_pass
+            value: web
+          - name: db_host
+            value: database.components
+
+
+
