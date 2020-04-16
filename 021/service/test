@@ -1,0 +1,1000 @@
+ 1138  gcc main.c -o pranayasgame -lncurses
+ 1139  ./pranayasgame 
+ 1140  vi main.c
+ 1141  gcc main.c -o pranayasgame -lncurses
+ 1142  ./pranayasgame 
+ 1143  vi main.c
+ 1144  gcc main.c -o pranayasgame -lncurses
+ 1145  ./pranayasgame 
+ 1146  vi main.c
+ 1147  gcc main.c -o pranayasgame -lncurses
+ 1148  ./pranayasgame 
+ 1149  vi main.c
+ 1150  gcc main.c -o pranayasgame -lncurses
+ 1151  ./pranayasgame 
+ 1152  vi main.c
+ 1153  gcc main.c -o pranayasgame -lncurses
+ 1154  ./pranayasgame 
+ 1155  gcc main.c -o pranayasgame -lncurses
+ 1156  ./pranayasgame 
+ 1157  gcc main.c -o pranayasgame -lncurses
+ 1158  ./pranayasgame 
+ 1159  vi main.c
+ 1160  gcc main.c -o pranayasgame -lncurses
+ 1161  ./pranayasgame 
+ 1162  vi main.c
+ 1163  ./pranayasgame 
+ 1164  vi main.c
+ 1165  gcc main.c -o pranayasgame -lncurses
+ 1166  ./pranayasgame 
+ 1167  vi main.c
+ 1168  gcc main.c -o pranayasgame -lncurses
+ 1169  ./pranayasgame 
+ 1170  vi main.c
+ 1171  gcc main.c -o pranayasgame -lncurses
+ 1172  ./pranayasgame 
+ 1173  vi main.c
+ 1174  gcc main.c -o pranayasgame -lncurses
+ 1175  ./pranayasgame 
+ 1176  vi main.c
+ 1177  gcc main.c -o pranayasgame -lncurses
+ 1178  vi main.c
+ 1179  gcc main.c -o pranayasgame -lncurses
+ 1180  ./pranayasgame 
+ 1181  vi main.c
+ 1182  gcc main.c -o pranayasgame -lncurses
+ 1183  ./pranayasgame 
+ 1184  vi main.c
+ 1185  gcc main.c -o pranayasgame -lncurses
+ 1186  ./pranayasgame 
+ 1187  vi main.c
+ 1188  gcc main.c -o pranayasgame -lncurses
+ 1189  ./pranayasgame 
+ 1190  vi main.c
+ 1191  gcc main.c -o pranayasgame -lncurses
+ 1192  ./pranayasgame 
+ 1193  vi main.c
+ 1194  gcc main.c -o pranayasgame -lncurses
+ 1195  ./pranayasgame 
+ 1196  vi main.c
+ 1197  gcc main.c -o pranayasgame -lncurses
+ 1198  ./pranayasgame 
+ 1199  vi main.c
+ 1200  gcc main.c -o pranayasgame -lncurses
+ 1201  ./pranayasgame 
+ 1202  vi main.c
+ 1203  gcc main.c -o pranayasgame -lncurses
+ 1204  ./pranayasgame 
+ 1205  vi main.c
+ 1206  gcc main.c -o pranayasgame -lncurses
+ 1207  ./pranayasgame 
+ 1208  vi main.c
+ 1209  gcc main.c -o pranayasgame -lncurses
+ 1210  ./pranayasgame 
+ 1211  vi main.c
+ 1212  gcc main.c -o pranayasgame -lncurses
+ 1213  ./pranayasgame 
+ 1214  vi main.c
+ 1215  gcc main.c -o pranayasgame -lncurses
+ 1216  ./pranayasgame 
+ 1217  exit
+ 1218  sudo apt install ncurses ncurses-devel
+ 1219  sudo apt install libncurses5-dev libncursesw5-dev
+ 1220  man ncurses
+ 1221  man curses
+ 1222  man initscr
+ 1223  info ncurses
+ 1224  info curses
+ 1225  sudo apt-get install ncurses-doc
+ 1226  man initscr
+ 1227  man  getch
+ 1228  man initscr
+ 1229  man keypad
+ 1230  man mvaddch
+ 1231  man nocbreak
+ 1232  man keypad
+ 1233  man mvattr
+ 1234  man mvaddch
+ 1235  man attr
+ 1236  man start_color
+ 1237  man mvinch
+ 1238  exit
+ 1239  pwd
+ 1240  mkdir repos
+ 1241  cd repos/
+ 1242  mkdir pranayasgame
+ 1243  cd pranayasgame/
+ 1244  ls
+ 1245  tmux
+ 1246  ls
+ 1247  cd repos/
+ 1248  ls
+ 1249  cd pranayasgame/
+ 1250  ls
+ 1251  ./pranayasgame 
+ 1252  cd ..
+ 1253  ls
+ 1254  screen
+ 1255  tmux
+ 1256  exit
+ 1257  emacs -nw
+ 1258  exit
+ 1259  ls
+ 1260  cd housie
+ 1261  ls
+ 1262  python housie.py
+ 1263  clear
+ 1264  python housie.py
+ 1265  clear
+ 1266  python housie.py 
+ 1267  exit
+ 1268  tmux --help
+ 1269  tmux -ls
+ 1270  tmux -l
+ 1271  man tmux
+ 1272  tmux list-sessions
+ 1273  tmux attach-sessions 0
+ 1274  tmux attach-session 0
+ 1275  tmux attach-session -t 0
+ 1276  exit
+ 1277  ls
+ 1278  python housie.py
+ 1279  pwd
+ 1280  cd repos/
+ 1281  ls
+ 1282  cd housie
+ 1283  s
+ 1284  ls
+ 1285  git status
+ 1286  git diff
+ 1287  git add .
+ 1288  git commit
+ 1289  git push origin master
+ 1290  ~/pycharm/pycharm-community-2020.1/bin/pycharm.sh 
+ 1291  pwd
+ 1292  vi housie.py 
+ 1293  git remote -
+ 1294  git remote -v
+ 1295  vi
+ 1296  vi /tmp/n
+ 1297  exi
+ 1298  exit
+ 1299  ls
+ 1300  python3 housie.py 
+ 1301  vi housie.py 
+ 1302  python3 housie.py 
+ 1303  vi housie.py 
+ 1304  python3 housie.py 
+ 1305  vi housie.py 
+ 1306  python3 housie.py 
+ 1307  vi housie.py 
+ 1308  python3 housie.py 
+ 1309  clear
+ 1310  python3 housie.py 
+ 1311  clear
+ 1312  python3 housie.py 
+ 1313  exit
+ 1314  ls
+ 1315  cd repos/
+ 1316  ls
+ 1317  cd housie
+ 1318  ls
+ 1319  vi housie.py 
+ 1320  python3 housie.py 
+ 1321  vi housie.py 
+ 1322  python3 housie.py 
+ 1323  vi housie.py 
+ 1324  ls
+ 1325  cd 
+ 1326  cd repos/
+ 1327  cd pranayasgame/
+ 1328  ls
+ 1329  vi main.c 
+ 1330  pwd
+ 1331  cd ..
+ 1332  cd housie
+ 1333  ls
+ 1334  vi housie.py 
+ 1335  python housie.py 
+ 1336  python3 housie.py 
+ 1337  ls
+ 1338  pwd
+ 1339  vi housie.py 
+ 1340  python3 housie.py 
+ 1341  vi housie.py 
+ 1342  python3 housie.py 
+ 1343  vi housie.py 
+ 1344  python3 housie.py 
+ 1345  tmux
+ 1346  exit
+ 1347  vi
+ 1348  exit
+ 1349  ls
+ 1350  pwd
+ 1351  cd housie
+ 1352  ls
+ 1353  python housie.py 
+ 1354  python3 housie.py 
+ 1355  exit
+ 1356  nano
+ 1357  vi /tmp/o
+ 1358  cal
+ 1359  exit
+ 1360  cxd repos
+ 1361  cd repos
+ 1362  ls
+ 1363  tmux
+ 1364  exit
+ 1365  docker ps
+ 1366  docker stop 8bd772ff7c3b
+ 1367  docker start 8bd772ff7c3b
+ 1368  docker ps
+ 1369  docker exec -it 8bd772ff7c3b /bin/bash
+ 1370  pwd
+ 1371  docker ps
+ 1372  docker stop8bd772ff7c3b
+ 1373  docker stop 8bd772ff7c3b
+ 1374  docker rm 8bd772ff7c3b
+ 1375  exit
+ 1376  pwd
+ 1377  ls
+ 1378  cd repos/
+ 1379  cd kubernetes101/
+ 1380  ls
+ 1381  cd 001-010/
+ 1382  ls
+ 1383  mkdir docker
+ 1384  cd docker/
+ 1385  vi Dockerfile 
+ 1386  docker build -t empty_loop .
+ 1387  docker run empty_loop
+ 1388  exit
+ 1389  ssh ssh MaGGkNRffXMYPzTp9cFaTacNr@sgp1.tmate.io
+ 1390  pwd
+ 1391  ls
+ 1392  cd repos/
+ 1393  ls
+ 1394  cd kubernetes101/
+ 1395  git status
+ 1396  rm -rf .swp
+ 1397  git status
+ 1398  git add .
+ 1399  git commit
+ 1400  git push origin master
+ 1401  ls
+ 1402  cd 001-010
+ 1403  ls
+ 1404  cd ..
+ 1405  cd 001-010
+ 1406  cd docker/
+ 1407  ls
+ 1408  clear
+ 1409  docker ps
+ 1410  docker ps -a
+ 1411  docker ps
+ 1412  group
+ 1413  groups
+ 1414  docker ps
+ 1415  docker image list
+ 1416  ls
+ 1417  vi Dockerfile
+ 1418  ls
+ 1419  vi Dockerfile 
+ 1420  docker build . -t first_docker_image
+ 1421  docker image list
+ 1422  docker run first_docker_image 
+ 1423  docker run -d first_docker_image 
+ 1424  docker ps
+ 1425  docker exec -it 62039856b6c6 /bin/bash
+ 1426  docker ps
+ 1427  pwd
+ 1428  kubectl
+ 1429  minikube start
+ 1430  vi ~/.kube/config 
+ 1431  kubectl config get-contexts
+ 1432  kubectl config use-context alice
+ 1433  kubectl config get-contexts
+ 1434  kubectx
+ 1435  kubectl get nodes
+ 1436  kubectx
+ 1437  kubectl get nodes
+ 1438  kubectx
+ 1439  kubectl get nodes
+ 1440  kubectl get pods
+ 1441  ls
+ 1442  docker image list
+ 1443  ls
+ 1444  cd ..
+ 1445  ls
+ 1446  pwd
+ 1447  vi ubuntuPod.yml 
+ 1448  kubectl get pods
+ 1449  kubectl delete pods/webgroup
+ 1450  ls
+ 1451  vi ubuntuPod.yml 
+ 1452  kubectl config get-contexts
+ 1453  kubectl apply -f ubuntuPod.yml 
+ 1454  kubectl get pods
+ 1455  kubectl exec -it ubuntuPod  /bin/bash
+ 1456  kubectl exec -it ubuntu-pod  /bin/bash
+ 1457  kubectl logs -f ubuntu-pod
+ 1458  vi
+ 1459  vi ~/.kube/config 
+ 1460  kubectl
+ 1461  exit
+ 1462  docker ps
+ 1463  docker stop 2f68bd9f10a9
+ 1464  docker ps
+ 1465  docker ps -a
+ 1466  exit
+ 1467  tmate
+ 1468  sudo apt install tmate
+ 1469  tmate
+ 1470  exit
+ 1471  tmate 
+ 1472  exit
+ 1473  tmux
+ 1474  exit
+ 1475  tmate --help
+ 1476  tmate -L
+ 1477  tmate show
+ 1478  exit
+ 1479  tmate
+ 1480  pwd
+ 1481  ls
+ 1482  cd repos/
+ 1483  ls
+ 1484  cd kubernetes101/
+ 1485  ls
+ 1486  cd 001
+ 1487  cd 001-010/
+ 1488  ls
+ 1489  cat ubuntuPod.yml 
+ 1490  kubectl get pods
+ 1491  minikube start
+ 1492  kubectl get pods --help
+ 1493  minikube status
+ 1494  kubectl get nodes
+ 1495  ls
+ 1496  pwd
+ 1497  cd ..
+ 1498  ls
+ 1499  cd 011
+ 1500  ls
+ 1501  cd firstpod/
+ 1502  ls
+ 1503  cat webpod.yml 
+ 1504  pwd
+ 1505  ls
+ 1506  cp ../../013/service/web_service.yml ./
+ 1507  ls
+ 1508  cat web_service.yml 
+ 1509  ls
+ 1510  vi webpod.yml 
+ 1511  vi web_service.yml 
+ 1512  vi webpod.yml 
+ 1513  vi web_service.yml 
+ 1514  git status
+ 1515  cd ../../
+ 1516  git status
+ 1517  git add .
+ 1518  cat 001-010/ubuntuPod.yml
+ 1519  git diff
+ 1520  git status
+ 1521  git diff 001-010/ubuntuPod.yml
+ 1522  git reset
+ 1523  git diff 001-010/ubuntuPod.yml
+ 1524  git status
+ 1525  git add .
+ 1526  git commit
+ 1527  git push origin master
+ 1528  pwd
+ 1529  ls
+ 1530  cd 001-010/
+ 1531  ls
+ 1532  cd ..
+ 1533  cd 011
+ 1534  ls
+ 1535  cd firstpod/
+ 1536  ls
+ 1537  minikube docker-env
+ 1538  ls
+ 1539  pwd
+ 1540  cat webpod.yml 
+ 1541  ls
+ 1542  cat web_service.yml 
+ 1543  git status
+ 1544  ls
+ 1545  vat web_service.yml 
+ 1546  cat web_service.yml 
+ 1547  minikube status
+ 1548  tmate
+ 1549  vi
+ 1550  kubectl get namespaces
+ 1551  kubectl get pods -n kube-system
+ 1552  kubectl get pods
+ 1553  kubectl get pods -n default
+ 1554  kubectl get pods 
+ 1555  kubectl get pods -A
+ 1556  kubectl create namespace param
+ 1557  kubectl get namespaces
+ 1558  cd repos/kubernetes101/
+ 1559  ls
+ 1560  cd 011
+ 1561  ls
+ 1562  cd firstpod/
+ 1563  ls
+ 1564  pwd
+ 1565  cd ..
+ 1566  ls
+ 1567  cd ..
+ 1568  ls
+ 1569  pwd
+ 1570  cd 013
+ 1571  ls
+ 1572  cd ..
+ 1573  cd 014
+ 1574  ls
+ 1575  pwd
+ 1576  cd ..
+ 1577  cd 001-010/
+ 1578  ls
+ 1579  cat ubuntuPod.yml 
+ 1580  kubectl apply -f ubuntuPod.yml -n param
+ 1581  kubectl get namespaces
+ 1582  kubectl get pods -A
+ 1583  kubectl get events
+ 1584  kubectl get events -n deepthi
+ 1585  ls
+ 1586  cat ubuntuPod.yml 
+ 1587  pwd
+ 1588  cd ..
+ 1589  cd 014
+ 1590  ls
+ 1591  cat ubuntuPod.yml 
+ 1592  kubectl get events -n deepthi
+ 1593  kubectl get pods -n deepthi
+ 1594  kubectl edit pods/ubuntu-pod -n deepthi
+ 1595  kubectl get pods -n deepthi
+ 1596  kubectl edit pods/ubuntu-pod -n deepthi
+ 1597  ls
+ 1598  vi ubuntuPod.yml 
+ 1599  kubectl get pods
+ 1600  kubectl get pods -A
+ 1601  kubectl get pods --all-namespaces
+ 1602  pwd
+ 1603  cd ..
+ 1604  cd 011
+ 1605  pwd
+ 1606  ls
+ 1607  pwd
+ 1608  kubectl get pods -A
+ 1609  kubectl get pods -A -l "app=ubuntu-pod"
+ 1610  kubectl get pods -A -l "app=ubuntu-pod,role=frontend"
+ 1611  kubectl get pods -A -l "app=ubuntu-pod,role=backend"
+ 1612  kubectl get nodes -owide
+ 1613  pwd
+ 1614  ls
+ 1615  cd firstpod/
+ 1616  ls
+ 1617  pwd
+ 1618  eval $(minikube -p minikube docker-en
+ 1619  eval $(minikube -p minikube docker-env)
+ 1620  minikube docker-env
+ 1621  ls
+ 1622  vi web/web.go 
+ 1623  vi Makefile 
+ 1624  vi Dockerfile 
+ 1625  ls
+ 1626  vi Makefile 
+ 1627  make docker
+ 1628  ls
+ 1629  vi Makefile 
+ 1630  vi webpod.yml 
+ 1631  pwd
+ 1632  vi webpod.yml 
+ 1633  kubectl apply -f webpod.yml -n param
+ 1634  kubectl get pods -n param
+ 1635  kubectl describe pods/web2
+ 1636  kubectl describe pods/web2 -n param
+ 1637  /sbin/ifconfig
+ 1638  ip
+ 1639  ss
+ 1640  ss | more
+ 1641  kubectl describe pods/web2 -n param
+ 1642  kubectl get pods/web2 -oyaml
+ 1643  kubectl get pods/web2 -oyaml -n param
+ 1644  ls
+ 1645  vi webpod.yml 
+ 1646  kubectl get pods/web2 -oyaml -n param
+ 1647  kubectl get pods -n param
+ 1648  kubectl apply -f webpod.yml 
+ 1649  kubectl get pods -n param
+ 1650  kubectl apply -f webpod.yml -n param
+ 1651  kubectl delete pods/web3
+ 1652  kubectl get pods -n param
+ 1653  ls
+ 1654  vi webpod.yml 
+ 1655  kubectl get pods -n param
+ 1656  kubectl exec -it pods/web2 /bin/bash
+ 1657  kubectl exec -n param -it pods/web2 /bin/bash 
+ 1658  kubectl get pods -A -owide
+ 1659  kubectl get pods -A -owide | grep -v web2
+ 1660  kubectl get pods -A -owide | grep -v web3
+ 1661  kubectl get pods -n deepthi  -owide | grep -v web3
+ 1662  kubectl get pods -n deepthi  -owide
+ 1663  kubectl describe pods/web2 -n param
+ 1664  curl 192.168.99.100:8081
+ 1665  curl 192.168.99.100:8081/ping
+ 1666  ss
+ 1667  ls -l
+ 1668  kubectl get namespaces
+ 1669  kubectl get pods -n 
+ 1670  kubectl get pods -n kube-system
+ 1671  kubectl get pods
+ 1672  kubectl get pods -n default
+ 1673  kubectl get pods
+ 1674  kubectl get pods -A
+ 1675  kubectl create namespace sukumar
+ 1676  kubectl get namespaces
+ 1677  cd repos/kubernetes101/
+ 1678  ls -l
+ 1679  cd 001-010/
+ 1680  ls -l
+ 1681  cd ..
+ 1682  ls -l
+ 1683  cd 001-010/
+ 1684  ls -l
+ 1685  cat ubuntuPod.yml
+ 1686  kubectl apply -f ubuntuPod.yml -n sukumar 
+ 1687  kubectl get events
+ 1688  kubectl get events -n sukumar
+ 1689  kubectl edit pods/ubuntu-pod -n sukumar
+ 1690  kubectl get -n sukumar
+ 1691  kubectl get pods -n sukumar
+ 1692  kubectl get pods --all-namespaces
+ 1693  cd ..
+ 1694  cd 001
+ 1695  cd ..
+ 1696  cd 011
+ 1697  ls -l
+ 1698  cd kubernetes101/
+ 1699  cd 011
+ 1700  clear
+ 1701  ls -l
+ 1702  kubectl get pods -A
+ 1703  kubectl get pods -A -l "app=ubuntu-pod"
+ 1704  kubectl get pods -A -l "app=ubuntu-pod,role=frontend"
+ 1705  kubectl get pods -A -l "app=ubuntu-pod,role=backend"
+ 1706  kubectl get nodes -owide
+ 1707  cd firstpod/
+ 1708  ls 
+ 1709  eval $(minikube -p minikube docker-env)
+ 1710  minikube docker-env
+ 1711  cat Dockerfile 
+ 1712  kubectl apply -f webpod.yml -n sukumar
+ 1713  kubectl get pods -n param
+ 1714  kubectl describe pods/web2 -n sukumar
+ 1715  kubectl get pods/web2 -oyaml -n param
+ 1716  ls -l
+ 1717  vi webpod.yml 
+ 1718  kubectl get pods -n sukumar
+ 1719  kubectl delete pods/web2 -n sukumar
+ 1720  kubectl apply -f webpod.yml -n sukumar
+ 1721  kubectl get pods -n sukumar
+ 1722  vi webpod.yml 
+ 1723  kubectl apply -f webpod.yml -n sukumar
+ 1724  kubectl get pods -n sukumar
+ 1725  kubectl get pods -n deepthi
+ 1726  kubectl describe pods -n deepthi
+ 1727  kubectl describe pods -n sukumar
+ 1728  kubectl get pods -n sukumar
+ 1729  kubectl exec -n sukumar -it pods/web2 /bin/bash
+ 1730  kubectl describe pods -n sukumar
+ 1731  vi webpod.yml 
+ 1732  curl 192.168.99.100:8085/ping
+ 1733  exit
+ 1734  tmate
+ 1735  tmate
+ 1736  tmux
+ 1737  tmate
+ 1738  minikube start
+ 1739  tmate
+ 1740  ls -l
+ 1741  cd /repos
+ 1742  cd repos
+ 1743  ls -l
+ 1744  cd kubernetes101/
+ 1745  cd 012
+ 1746  cd service/
+ 1747  ls -l
+ 1748  kubectl get pods
+ 1749  kubectl get pods -A
+ 1750  kubectl delete pod/ubuntu -n sukumar
+ 1751  kubectl delete pod-ubuntu -n sukumar
+ 1752  kubectl delete pods/web2 -n sukumar
+ 1753  kubectl delete pods/web3 -n sukumar
+ 1754  kubectl pods -A
+ 1755  clear
+ 1756  kubectl delete pods/ubuntu-pod -n sukumar
+ 1757  kubectl get pods
+ 1758  kubectl get pods -A
+ 1759  clear
+ 1760  ls -l
+ 1761  vi Makefile
+ 1762  kubectl apply -f webpod.yml -n sukumar
+ 1763  vi webpod.yml 
+ 1764  kubectl delete pods/web2 -n sukumar
+ 1765  vi webpod.yml 
+ 1766  kubectl get pods -A
+ 1767  kubectl get pods -n sukumar
+ 1768  kubectl get pods 
+ 1769  kubectl get namespaces
+ 1770  kubectl exec -it pods/web2 --container=web -n sukumar /bin/bash
+ 1771  kubectl exec -it pods/web2 --container=db -n sukumar /bin/bash
+ 1772  kubectl get nodes
+ 1773  kubectl get nodes -owide
+ 1774  curl postgres    69     1  0 14:00 ?        00:00:00 postgres: wal writer process
+ 1775  kubectl get pods -owide
+ 1776  curl 192.168.99.100:8084/ping
+ 1777  kubectl get nodes -owied
+ 1778  clear
+ 1779  kubectl get pods/web2 -ojson -nparam | jq ".spec.containers[0].ports" 
+ 1780  kubectl get pods/web2 -ojson -nsukumar | jq ".spec.containers[0].ports" 
+ 1781  curl 192.168.99.100:8084/write '{"data": "line1"}'
+ 1782  curl 192.168.99.100:8080/write -d '{ "data": "line1" }'
+ 1783  curl 192.168.99.100:8084/write -d '{ "data": "line1" }'
+ 1784  get pods -n sukumar
+ 1785  curl 192.168.99.100:8084/quit
+ 1786  kubectl get pods -n sukumar
+ 1787  curl 192.168.99.100:8084/read
+ 1788  kubectl get pods -n sukumar
+ 1789  kubectl delete pods/web2 -n sukumar
+ 1790  kubectl apply -f webpod.yml -n sukumar
+ 1791  vi webpod.yml 
+ 1792  kubectl get pods -n sukumar
+ 1793  curl 192.168.99.100:8084/read
+ 1794  cd ..
+ 1795  cd 013
+ 1796  ls -l
+ 1797  cd service/
+ 1798  clear
+ 1799  ls -l
+ 1800  vi web_service.yml 
+ 1801  exit
+ 1802  cd repos/kubernetes101/
+ 1803  ls
+ 1804  ls -la
+ 1805  clear
+ 1806  kubectl create namespace mahesh
+ 1807  ls 
+ 1808  cd 012
+ 1809  ls
+ 1810  cd ..
+ 1811  ls
+ 1812  cd 012
+ 1813  ls
+ 1814  ls -la
+ 1815  cd service/
+ 1816  ls -la
+ 1817  pwd
+ 1818  clear
+ 1819  kubectl get pods
+ 1820  clear
+ 1821  ls
+ 1822  cp webpod.yml mahesh.yml
+ 1823  ls
+ 1824  cat mahesh.yml
+ 1825  clear
+ 1826  vi mahesh.yml
+ 1827  kubectl get namespaces
+ 1828  kubectl apply -f mahesh.yml -n mahesh
+ 1829  kubectl get pods
+ 1830  clear
+ 1831  kubectl exec -it pods/web2 --container=web -n mahesh /bin/bash
+ 1832  kebectl get nodes
+ 1833  kubectl get nodes
+ 1834  kubectl get nodes -owide
+ 1835  curl 192.168.99.100:8080/ping
+ 1836  clear
+ 1837  curl 192.168.99.100:8080/ping
+ 1838  kubectl get pods/web2 -ojson -nmahesh| jq ".spec.containers[0].ports" 
+ 1839  curl 192.168.99.100:8090/write -d '{"data" : "line3"}
+ 1840  kubectl get pods -n mahesh
+ 1841  curl 192.168.99.100:8090/read
+ 1842  curl 192.168.99.100:8090/quit
+ 1843  kubectl get pods -n mahesh
+ 1844  clear
+ 1845  kubectl delete pods/web2 -n mahesh
+ 1846  kubectl get pods
+ 1847  ls
+ 1848  clear
+ 1849  ls
+ 1850  cd ..
+ 1851  ls
+ 1852  cd ..
+ 1853  ls
+ 1854  cd kubectl get pods -A
+ 1855  ls
+ 1856  cd 012
+ 1857  cd service/
+ 1858  clear
+ 1859  kubectl get pods -A
+ 1860  exit
+ 1861  vi
+ 1862  pwd
+ 1863  cd repos/kubernetes101/
+ 1864  ls
+ 1865  cd 012
+ 1866  ls
+ 1867  cd service/
+ 1868  ls
+ 1869  kubectl get pods
+ 1870  kubectl get pods -A
+ 1871  kubectl delete pods/ubuntu-pod -n param
+ 1872  kubectl delete pods/web2 -n param
+ 1873  kubectl delete pods/web3 -n param
+ 1874  kubectl get pods -A
+ 1875  kubectl delete pods/ubuntu-pod -n deepthi
+ 1876  kubectl delete pods/web2 -n deepthi
+ 1877  kubectl delete pods/web3 -n deepthi
+ 1878  kubectl delete namespace deepthi
+ 1879  kubectl get pods -n param
+ 1880  kubectl get pods -a
+ 1881  kubectl get pods -A
+ 1882  pwd
+ 1883  ls
+ 1884  vi Makefile 
+ 1885  vi web/web.go 
+ 1886  ls
+ 1887  vi webpod.yml 
+ 1888  eval $(minikube -p minikube docker-env)
+ 1889  make docker
+ 1890  ls
+ 1891  pwd
+ 1892  kubectl apply -f webpod.yml -n param
+ 1893  vi webpod.yml 
+ 1894  kubectl get pods -A
+ 1895  ls
+ 1896  vi web/web.go
+ 1897  ls
+ 1898  cat Makefile 
+ 1899  cd web
+ 1900  ls
+ 1901  cat Makefile 
+ 1902  cd ..
+ 1903  ls
+ 1904  pwd
+ 1905  ls
+ 1906  cat anupam.yml 
+ 1907  cat girish.yml 
+ 1908  ls
+ 1909  cat anupam.yml 
+ 1910  ls
+ 1911  kubectl get pods -n param
+ 1912  kubectl get pods -A
+ 1913  kubectl get namespaces
+ 1914  ls
+ 1915  vi mahesh.yml 
+ 1916  kubectl get pods -A
+ 1917  kubels
+ 1918  ls
+ 1919  vi webpod.yml 
+ 1920  kubectl exec -it pods/web2 --container=web -n param /bin/bash
+ 1921  kubectl exec -it pods/web2 --container=db -n param /bin/bash
+ 1922  kubectl get nodes
+ 1923  kubectl get nodes -owide
+ 1924  kubectl get pods/web2 -owide -nparam
+ 1925  kubectl get pods/web2 -oyaml -nparam
+ 1926  kubectl get nodes -owide
+ 1927  curl 192.168.99.100:8080/ping
+ 1928  kubectl get pods/web2 -ojson | jq ".spec.metadata"
+ 1929  kubectl get pods/web2 -ojson | jq ".spec.metadata" -n param
+ 1930  kubectl get pods/web2 -ojson -nparam | jq ".spec.metadata" 
+ 1931  kubectl get pods/web2 -ojson -nparam | jq ".spec" 
+ 1932  kubectl get pods/web2 -ojson -nparam | jq ".spec.containers[0].ports" 
+ 1933  curl 192.168.99.100:8080/write -d '{ "data": "line1" }'
+ 1934  curl 192.168.99.100:8080/read
+ 1935  kubectl get pods -n param
+ 1936  curl 192.168.99.100:8080/quit
+ 1937  kubectl get pods -n param
+ 1938  curl 192.168.99.100:8080/read
+ 1939  kubectl get pods -n param
+ 1940  ls
+ 1941  vi webpod.yml 
+ 1942  kubectl exec -it pods/web2 --container=db -n param /bin/bash
+ 1943  kubectl exec -it pods/web2 --container=web -n param /bin/bash
+ 1944  vi webpod.yml 
+ 1945  ls
+ 1946  cd web
+ 1947  ls
+ 1948  vi web.go 
+ 1949  cd ..
+ 1950  ls
+ 1951  vi webpod.yml 
+ 1952  kubectl exec -it pods/web2 --container=web -n param /bin/bash
+ 1953  kubectl exec -it pods/web2 --container=db -n param /bin/bash
+ 1954  vi webpod.yml 
+ 1955  pwd
+ 1956  cd ../../
+ 1957  cd 013
+ 1958  ls
+ 1959  cd service/
+ 1960  ls
+ 1961  kubectl get pods -A
+ 1962  ls
+ 1963  vi postgres.yml 
+ 1964  vi components_service.yml 
+ 1965  vi postgres.yml 
+ 1966  vi webreplicas.yml 
+ 1967  vi components_service.yml 
+ 1968  vi postgres.yml 
+ 1969  vi components_service.yml 
+ 1970  vi webreplicas.yml 
+ 1971  pwd
+ 1972  cd repos/
+ 1973  ls
+ 1974  cd kubernetes101/
+ 1975  ls
+ 1976  cd 012
+ 1977  ls
+ 1978  cd service/
+ 1979  ls
+ 1980  vi webpod.yml 
+ 1981  vi Makefile 
+ 1982  ls
+ 1983  pw
+ 1984  pwd
+ 1985  cd ../../
+ 1986  cd 013
+ 1987  ls
+ 1988  cd service/
+ 1989  ls
+ 1990  vi web_service.yml 
+ 1991  cat components_service.yml 
+ 1992  ls
+ 1993  cat web_service.yml 
+ 1994  cat webreplicas.yml 
+ 1995  ls
+ 1996  kubectl get pods
+ 1997  minikube start
+ 1998  vi
+ 1999  ssh twjrPU2rKGVXbegsnJM8K5Su6
+ 2000  ls -l
+ 2001  clear
+ 2002  ls -l
+ 2003  clear
+ 2004  ls -l
+ 2005  cd handsonscale/
+ 2006  ls -l
+ 2007  cd ..
+ 2008  ls -l
+ 2009  cd repos
+ 2010  ls -l
+ 2011  cd ..
+ 2012  ls -l
+ 2013  cd repos
+ 2014  ls -l
+ 2015  cd kubernetes101/
+ 2016  ls -l
+ 2017  cd 014
+ 2018  ls -l
+ 2019  cd ..
+ 2020  cd 013
+ 2021  ls -l
+ 2022  cd service/
+ 2023  ls -l
+ 2024  kuberctl apply -f components_service.yml -n sukumar
+ 2025  kubectl apply -f components_service.yml -n sukumar
+ 2026  ls -l
+ 2027  kubectl get pods -A
+ 2028  kubectl apply -f postgres.yml -n sukumar
+ 2029  kubectl get pods
+ 2030  kubectl get pods -A
+ 2031  kubectl apply -f webreplicas.yml -n sukumar
+ 2032  kubectl get pods -n sukumar
+ 2033  kubectl get repliset -n sukumar
+ 2034  kubectl get replicaset -n sukumar
+ 2035  kubectl delete pods/backend-b66q4 -n sukumar
+ 2036  kubectl get replicaset -n sukumar
+ 2037  kubectl get pods -n sukumar
+ 2038  kubectl logs -f
+ 2039  kubectl logs -f backend-4skp4 -n sukumar
+ 2040  kubectl logs backend-4skp4 -n sukumar
+ 2041  kubectl get pods -n sukumar
+ 2042  kubectl get pods/backend-4skp4 -oyaml -n sukumar
+ 2043  kubectl get rs -n sukumar
+ 2044  kubectl delete rs backend -n sukumar
+ 2045  kubectl get pods -n sukumar
+ 2046  kubectl apply -f web_service.yml -n sukumar
+ 2047  kubectl get pods -n sukumar
+ 2048  kubectl get services -n sukumar
+ 2049  kubectl apply -f web_service.yml -n sukumar
+ 2050  kubectl apply -f postgres.yml -n sukumar
+ 2051  kubectl get pods -n sukumar
+ 2052  ls -l
+ 2053  kubectl apply -f webreplicas.yml -n sukumar
+ 2054  kubectl get pods -n sukumar
+ 2055  kubectl exec -it pods/<> -n <> /bin/bash
+ 2056  kubectl exec -it pods/backend-6d7h6 -n sukumar /bin/bash
+ 2057  kubectl apply -f dnsutils.yml -n sukumar
+ 2058  kubectl get pods -n sukumar
+ 2059  history
+ 2060  clear
+ 2061  kubectl exec -ti dnsutils -- nslookup database.components
+ 2062  kubectl exec -ti dnsutils -- nslookup web
+ 2063  kubectl exec -it pods/backend-6d7h6 -n sukumar /bin/bash
+ 2064  kubectl describe services/web -n sukumar
+ 2065  kubectl exec -it pods/backend-6d7h6 -n sukumar /bin/bash
+ 2066  kubectl exec -ti dnsutils -- nslookup web
+ 2067  kubectl exec -ti dnsutils -- nslookup components
+ 2068  kubectl exec -ti dnsutils -- nslookup database.components
+ 2069  kubectl exec -ti dnsutils -- nslookup database.component
+ 2070  kubectl exec -ti dnsutils -- nslookup database.components -n sukumar
+ 2071  kubectl exec -n sukumar -ti dnsutils -- nslookup database.components
+ 2072  kubectl exec -ti dnsutils -- nslookup web
+ 2073  kubectl get pods -n kube-system
+ 2074  history > test
+ 2075  vi test
+ 2076  clear
+ 2077  kubectl edit replicaset/backend -n sukumar
+ 2078  kubectl get pods -n sukumar
+ 2079  kubectl edit replicaset/backend -n sukumar
+ 2080  kubectl get pods -n sukumar
+ 2081  kubectl edit replicaset/backend -n sukumar
+ 2082  kubectl get pods -n sukumar
+ 2083* 
+ 2084  clear
+ 2085  ls -l
+ 2086  kubectl get pods -n sukumar
+ 2087  cd ..
+ 2088  cd 020
+ 2089  cd ..
+ 2090  cd 013
+ 2091  kubelctl delete rs/backend -n sukumar
+ 2092  kubectl delete rs/backend -n sukumar
+ 2093  kubectl get resources -n sukumar
+ 2094  kubectl get pods -n sukumar
+ 2095  kubectl delete pods/database -n sukumar
+ 2096  kubectl delete pods/dnsutils -n sukumar
+ 2097  kubectl get pods -A
+ 2098  kubectl delete services -n sukumar
+ 2099  kubectl delete services/components -n sukumar
+ 2100  kubectl delete services/web -n sukumar
+ 2101  kubectl get all -n sukumar
+ 2102  cd ..
+ 2103  cd 020
+ 2104  cls
+ 2105  cd service/
+ 2106  clear
+ 2107  ls -l
+ 2108  kubectl apply -f components_service.yml -n sukumar
+ 2109  kubectl apply -f postgres.yml -n sukumar
+ 2110  kubectl apply -f web_service.yml -n sukumar
+ 2111  kubectl apply -f webdeployment.yml -n sukumar
+ 2112  kubectl get pods -n sukumar
+ 2113  kubectl get rs -n sukumar
+ 2114  kubectl apply -f ubuntuPod.yml -n sukumar
+ 2115  kubectl exec -it pods/ubuntu-pod /bin/bash
+ 2116  kubectl exec -n sukumar -it pods/ubuntu-pod /bin/bash
+ 2117  kubectl rollout status deployment/backend -n sukumar
+ 2118  kubectl --record deployment/backend set image deployment/backend web=web:v2
+ 2119  kubectl --record deployment/backend set image deployment/backend web=web:v2 -n sukumar
+ 2120  kubectl exec -n sukumar -it pods/ubuntu-pod /bin/bash
+ 2121  kubectl rollout undo deployment.backend -n sukumar
+ 2122  kubectl rollout history deployment.backend -n sukumar
+ 2123  kubectl rollout history deployment/backend -n sukumar
+ 2124  kubectl rollout undo deployment/backend -n sukumar
+ 2125  kubectl rollout undo deployment/backend -n sukumar --to-revision=2
+ 2126  kubectl exec -n sukumar -it pods/ubuntu-pod /bin/bash
+ 2127  kubectl rollout history deployment/backend -n sukumar --revision
+ 2128  kubectl rollout history deployment/backend -n sukumar --revision=3
+ 2129  kubectl rollout history deployment/backend -n sukumar --revision=3 -oymal
+ 2130  kubectl rollout history deployment/backend -n sukumar --revision=3 -ojson
+ 2131  histroy
+ 2132  history
+ 2133  clear
+ 2134  history
+ 2135  hist
+ 2136  history
+ 2137  history > test

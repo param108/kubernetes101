@@ -1,0 +1,22 @@
+apiVersion: "v1"
+kind: Pod
+metadata:
+  name: ubuntu-pod
+  labels:
+    app: ubuntu-pod
+    version: v5
+    role: backend
+spec:
+  containers:
+  - name: ubuntu-container
+    image: plainubuntu:latest
+    imagePullPolicy: Never
+    command: ["/bin/bash"]
+    args: ["-c", "while [ \"a\" = \"a\" ]; do echo \"Hi\"; sleep 5; done" ]
+    volumeMounts:
+      - mountPath: /v1
+        name: nfs-volume
+  volumes:
+    - name: nfs-volume
+      persistentVolumeClaim:
+        claimName: nfsclaim

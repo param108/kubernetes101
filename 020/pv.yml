@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: nfs
+  labels:
+    name: nfsvolume
+spec:
+  volumeMode: Filesystem
+  storageClassName: slow
+  capacity:
+    storage: 1Mi
+  accessModes:
+    - ReadWriteMany
+  nfs:
+    server: 192.168.0.42
+    path: "/mnt/nfs"
